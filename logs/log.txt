@@ -1,0 +1,5 @@
+2016-03-29 21:30:50 textparser.start.Main [INFO] interested!!!
+2016-03-29 21:32:34 textparser.start.Main [INFO] interested!!!
+2016-03-29 21:34:41 textparser.start.Main [INFO] interested!!!
+2016-03-29 21:47:33 textparser.start.Main [INFO] interested!!!
+2016-03-30 11:21:51 textparser.util.CodeParserFileHandler [ERROR] java.io.FileNotFoundException: \results\SortedLexemeByFirstLetter.txt (Системе не удается найти указанный путь)

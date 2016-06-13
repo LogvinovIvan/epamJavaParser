@@ -1,0 +1,17 @@
+printOne(); 
+printOne(); 
+printTwo(); 
+printOne(); 
+printOne(); 
+System.out.println("Hello"); 
+printOne(); 
+printOne(); 
+printTwo(); 
+printOne(); 
+printOne(); 
+System.out.println("Hello World"); 
+System.out.println("Hello World"); 
+flag = true; 
+int b = 5; 
+private static int COUNT_METHODS = 5; 
+private List<Integer> list = new ArrayList<>(); 

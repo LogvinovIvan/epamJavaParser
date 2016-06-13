@@ -1,0 +1,19 @@
+
+5; 5;
+= = = =
+add(int a, int b); ArrayList<>();
+b boolean
+CallingMethodsInSameClass CallingMethodsInSameClass1 CallingMethodsInSameClass1() class class COUNT_METHODS
+flag flag;
+get();
+i; IAA int int int int Integer interface
+list List<Integer>
+main(String[] args) main(String[] args)
+new
+printOne() printOne() printOne(); printOne(); printOne(); printOne(); printOne(); printOne(); printOne(); printOne(); printTwo() printTwo() printTwo(); printTwo(); private private private public public public public public public public public
+static static static static static static static System.out.println("Hello System.out.println("Hello System.out.println("Hello");
+true;
+void void void void void void
+World"); World");
+{ { { { { { { { { { {
+} } } } } } } } } } }
